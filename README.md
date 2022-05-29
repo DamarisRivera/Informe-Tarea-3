@@ -97,13 +97,27 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
 
-##### 48. Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kÆ, 2.2 kÆ, 3.9 kÆ, y 5.6 kÆ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+##### 48. Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
 
-#####
+##### 50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: (a) I (b)  VT (c) El valor de cada resistor
 
-#####
+##### *SECCIÓN 5-9 	Mediciones de voltaje*
 
-#####
+##### 52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
+![image](https://user-images.githubusercontent.com/105671763/170887813-b9fb6300-23c7-4417-badc-6fd64d211df2.png)
+
+##### *SECCIÓN 5–10 	Localización de fallas*
+
+##### 54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+
+##### 56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
+![image](https://user-images.githubusercontent.com/105671763/170888017-8d085528-5ce2-4076-bba4-10da6c635a1f.png)
+
+##### 58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
+![image](https://user-images.githubusercontent.com/105671763/170888167-2dbe31dd-85d0-4dbf-ab39-ca6c5e452e9e.png)
+
+##### 60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W. (a) ¿Qué sucedió? (b) Específicamente, ¿qué debe hacerse para arreglar el problema? (c) ¿Con qué voltaje ocurrió la falla?
+![image](https://user-images.githubusercontent.com/105671763/170888169-e092a589-6649-461e-8579-3894648cebd1.png)
 
 #####
 
