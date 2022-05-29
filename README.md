@@ -161,43 +161,48 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 ##### 22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
 ![image](https://user-images.githubusercontent.com/105671763/170888993-f4e48130-ea7b-4849-b294-8dddba6b45f9.png)
 
-#####
+##### 24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
 
-#####
+##### 26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
+![image](https://user-images.githubusercontent.com/105671763/170889082-9c49d471-e5f8-4ef2-ab9c-5f989b7217d2.png)
 
-#####
+##### 28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+![image](https://user-images.githubusercontent.com/105671763/170889111-eee8cb7e-3fc3-4d63-96d6-5742f1345946.png)
 
-#####
+##### *SECCIÓN 6–6 	Fuentes de corriente en paralelo*
 
-#####
+##### 30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
+![image](https://user-images.githubusercontent.com/105671763/170889170-b25a2335-1d2d-4321-9131-139d062cea98.png)
 
-#####
+##### *SECCIÓN 6–7 	Divisores de corriente*
 
+##### 32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+![image](https://user-images.githubusercontent.com/105671763/170889194-b68e0e84-9f39-413b-9b28-b7d91b7c201f.png)
 
-#####
+##### 34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
+![image](https://user-images.githubusercontent.com/105671763/170889212-11ba5aed-26df-4a2c-ab87-99e2a4b103d4.png)
 
-#####
+##### 36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω.(b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM = 50 Ω).
 
-#####
+##### *SECCIÓN 6–8 	Potencia en circuitos en paralel*
 
-#####
+##### 38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
 
-#####
+##### 40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 
-#####
+##### 42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kÆ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente: (a) El número de resistores (b) El valor de cada resistor (c) La corriente en cada rama (d) El voltaje aplicado
 
-#####
+##### *SECCIÓN 6–10 	Localización de fallas*
 
-#####
+##### 44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
+![image](https://user-images.githubusercontent.com/105671763/170889393-d2205cf3-2fa2-4d8d-a968-ed6eb598e73b.png)
 
-#####
+##### 46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+![image](https://user-images.githubusercontent.com/105671763/170889408-027381bc-cadf-40bf-906a-71cddc942a46.png)
 
-#####
-
-#####
-
-#####
-
+##### 48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4: 
+	(a) 1 y 2 (b) 2 y 3 (c) 3 y 4 (d) 1 y 4
+![image](https://user-images.githubusercontent.com/105671763/170889452-c2035017-ef94-47fd-b80d-30bd0c80e217.png)
 
 ## 4. Video
 
