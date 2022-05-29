@@ -138,25 +138,28 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 ##### 8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
 ![image](https://user-images.githubusercontent.com/105671763/170888704-972aa0d2-6ede-4f7a-873d-2c7d119b984b.png)
 
-#####
+##### *SECCIÓN 6–3 	Ley de las corrientes de Kirchhoff*
 
-#####
+##### 10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
 
-#####
+##### 12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
 
-#####
+##### *SECCIÓN 6–4 	Resistencia total en paralelo*
 
-#####
+##### 14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.
 
-#####
+##### 16. Calcule RT en cada uno de los circuitos de la figura 6-70.
+![image](https://user-images.githubusercontent.com/105671763/170888869-20bf713a-ac62-479c-9fc4-4a191fa737da.png)
 
-#####
+##### 18. Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
 
-#####
+##### 20. Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
+![image](https://user-images.githubusercontent.com/105671763/170888912-da5878bf-0fdf-4315-b09e-d7ea9f7c83b6.png)
 
-#####
+##### *SECCIÓN 6–5 	Aplicación de la ley de Ohm*
 
-#####
+##### 22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+![image](https://user-images.githubusercontent.com/105671763/170888993-f4e48130-ea7b-4849-b294-8dddba6b45f9.png)
 
 #####
 
