@@ -119,15 +119,24 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 ##### 60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W. (a) ¿Qué sucedió? (b) Específicamente, ¿qué debe hacerse para arreglar el problema? (c) ¿Con qué voltaje ocurrió la falla?
 ![image](https://user-images.githubusercontent.com/105671763/170888169-e092a589-6649-461e-8579-3894648cebd1.png)
 
-#####
+#### CAPITULO 6 
 
-#####
+#### PROBLEMAS 
 
-#####
+##### *SECCIÓN 6–1 	Resistores en paralelo*
 
-#####
+##### 2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+![image](https://user-images.githubusercontent.com/105671763/170888645-d5f9be8b-8b3d-4339-9805-269f7b5cc08a.png)
 
-#####
+##### *SECCIÓN 6–2 	Voltaje en un circuito en paralelo*
+
+##### 4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
+
+##### 6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
+![image](https://user-images.githubusercontent.com/105671763/170888704-972aa0d2-6ede-4f7a-873d-2c7d119b984b.png)
+
+##### 8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
+![image](https://user-images.githubusercontent.com/105671763/170888704-972aa0d2-6ede-4f7a-873d-2c7d119b984b.png)
 
 #####
 
