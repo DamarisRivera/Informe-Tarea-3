@@ -19,8 +19,12 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 	
 ## 2. Marco Teórico
 
+#### CAPITULO 5 
+
 ![image](https://user-images.githubusercontent.com/105671763/170916270-8b50ae90-8c27-4e85-94d8-6ef1de2fea90.png)
 
+
+#### CAPITULO 6 
 
 ## 3. Explicación y resolución de ejercicios 
 
