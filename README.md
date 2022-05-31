@@ -26,6 +26,7 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 #### CAPITULO 6 
 
+![image](https://user-images.githubusercontent.com/105671763/171095506-e1679ad8-2a3a-4510-abbb-6a1a9b62efeb.png)
 
 
 ## 3. Explicación y resolución de ejercicios 
