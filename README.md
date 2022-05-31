@@ -73,9 +73,11 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
 
-	
+	RT = 56 Ω + 56 Ω + 56 Ω + 56 Ω + 56 Ω + 56 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 22 Ω + 22 Ω = 1.180 Ω 
 
 ##### 16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 kΩ, 2.2 kΩ, y 5.6 kΩ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kΩ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
+
+	
 
 ##### 18. En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 ![image](https://user-images.githubusercontent.com/105671763/170886658-6621f121-5496-48e7-953c-4bb8abd86b48.png)
