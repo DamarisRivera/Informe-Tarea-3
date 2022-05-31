@@ -144,15 +144,16 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
 ![image](https://user-images.githubusercontent.com/105671763/170888167-2dbe31dd-85d0-4dbf-ab39-ca6c5e452e9e.png)
+No presenta problemas.
 
 ##### 60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W. (a) ¿Qué sucedió? (b) Específicamente, ¿qué debe hacerse para arreglar el problema? (c) ¿Con qué voltaje ocurrió la falla?
 ![image](https://user-images.githubusercontent.com/105671763/170888169-e092a589-6649-461e-8579-3894648cebd1.png)
 
-	(a)
+	(a) Se dio un corto.
 	
-	(b)
+	(b) Para localizar un corto, se mide el voltaje a través de cada resistor hasta que se tiene una lectura de 0 V.
 	
-	(c)
+	(c) Se debe calcular el voltaje para cada resistencia y en donde exista un voltaje mayor es donde se encontrará el corto.
 
 #### CAPITULO 6 
 
