@@ -59,9 +59,21 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.
 
+	RT = 1.0 Ω + 2.2 Ω + 5.6 Ω + 12 Ω + 22 Ω = 42.8 Ω
+
 ##### 12. Calcule la RT en cada circuito de la figura 5-71. 
 
+![image](https://user-images.githubusercontent.com/105671763/171295360-8ac99967-0f98-493b-9b3d-900947bb99c1.png)
+
+	(a) RT = 1.0 kΩ + 5.6 kΩ + 2.2 kΩ = 8.6 kΩ
+	
+	(b) RT = 4.7 Ω + 10 Ω + 12 Ω + 1.0 Ω = 27.7 Ω
+	
+	(c) RT = 1.0 MΩ + 560 kΩ + 5.6 MΩ + 680 kΩ + 10 MΩ = 1.0 MΩ + 0.56 MΩ + 5.6 MΩ + 0.68 MΩ + 10 MΩ = 17.84 MΩ
+
 ##### 14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
+
+	
 
 ##### 16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 kΩ, 2.2 kΩ, y 5.6 kΩ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kΩ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
 
