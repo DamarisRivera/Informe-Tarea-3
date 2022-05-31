@@ -130,12 +130,14 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: (a) I (b)  VT (c) El valor de cada resistor
 
+	
+
 ##### *SECCIÓN 5-9 	Mediciones de voltaje*
 
 ##### 52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
 ![image](https://user-images.githubusercontent.com/105671763/170887813-b9fb6300-23c7-4417-badc-6fd64d211df2.png)
 
-	
+	Se coloca a un lado de R2 y el otro punto se pone a tierra, luego se resta el voltaje B y A.
 
 ##### *SECCIÓN 5–10 	Localización de fallas*
 
