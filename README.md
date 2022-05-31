@@ -132,15 +132,20 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### *SECCIÓN 5-9 	Mediciones de voltaje*
 
-##### 52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
+##### 52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
 ![image](https://user-images.githubusercontent.com/105671763/170887813-b9fb6300-23c7-4417-badc-6fd64d211df2.png)
+
+	
 
 ##### *SECCIÓN 5–10 	Localización de fallas*
 
 ##### 54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
 
+	Se produjo una abertura, su voltaje es de 12 V. 
+
 ##### 56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
 ![image](https://user-images.githubusercontent.com/105671763/170888017-8d085528-5ce2-4076-bba4-10da6c635a1f.png)
+La corriente que va del circuto A a B.
 
 ##### 58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
 ![image](https://user-images.githubusercontent.com/105671763/170888167-2dbe31dd-85d0-4dbf-ab39-ca6c5e452e9e.png)
