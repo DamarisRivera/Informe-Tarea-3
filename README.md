@@ -68,7 +68,7 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 	(a) RT = 1.0 kΩ + 5.6 kΩ + 2.2 kΩ = 8.6 kΩ
 	(b) RT = 4.7 Ω + 10 Ω + 12 Ω + 1.0 Ω = 27.7 Ω
 	(c) RT = 1.0 MΩ + 560 kΩ + 5.6 MΩ + 680 kΩ + 10 MΩ = 1.0 MΩ + 0.56 MΩ + 5.6 MΩ + 0.68 MΩ + 10 MΩ = 17.84 MΩ
-
+	
 ##### 14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
 
 	RT = 56 Ω + 56 Ω + 56 Ω + 56 Ω + 56 Ω + 56 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 22 Ω + 22 Ω = 1.180 Ω 
@@ -166,10 +166,13 @@ No presenta problemas.
 
 ##### 2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
 ![image](https://user-images.githubusercontent.com/105671763/170888645-d5f9be8b-8b3d-4339-9805-269f7b5cc08a.png)
-
+	Se encuentran en paralelo.
+	
 ##### *SECCIÓN 6–2 	Voltaje en un circuito en paralelo*
 
-##### 4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
+##### 4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
+
+	
 
 ##### 6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
 ![image](https://user-images.githubusercontent.com/105671763/170888704-972aa0d2-6ede-4f7a-873d-2c7d119b984b.png)
