@@ -75,10 +75,12 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 kΩ, 2.2 kΩ, y 5.6 kΩ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kΩ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
 
-	
+	Utilizaría dos resistencias de 5.6 kΩ, dos resistencias de 2.2 kΩ, una resistencia de 0.68 kΩ, una resistencia de 0.56 kΩ, una resistencia de 1.0 kΩ, seis resistencias de 0.01 kΩ.
 
 ##### 18. En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 ![image](https://user-images.githubusercontent.com/105671763/170886658-6621f121-5496-48e7-953c-4bb8abd86b48.png)
+
+	RT = R1 + R3 + R5 = 510 Ω + 820 Ω + 680 Ω = 2010 Ω
 
 ##### *SECCIÓN 5-4 	Aplicación de la Ley de Ohm*
 
