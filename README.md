@@ -98,7 +98,7 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
 
-	
+	R1 + R2 + R3 + R4 = Req
 
 ##### 24. Determine VR1, R2 y R3 en la figura 5-76.
 ![image](https://user-images.githubusercontent.com/105671763/170886955-bf86e431-a812-404a-be81-57c1ba23bbbc.png)
