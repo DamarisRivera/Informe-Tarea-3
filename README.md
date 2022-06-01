@@ -66,9 +66,7 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 ![image](https://user-images.githubusercontent.com/105671763/171295360-8ac99967-0f98-493b-9b3d-900947bb99c1.png)
 
 	(a) RT = 1.0 kΩ + 5.6 kΩ + 2.2 kΩ = 8.6 kΩ
-	
 	(b) RT = 4.7 Ω + 10 Ω + 12 Ω + 1.0 Ω = 27.7 Ω
-	
 	(c) RT = 1.0 MΩ + 560 kΩ + 5.6 MΩ + 680 kΩ + 10 MΩ = 1.0 MΩ + 0.56 MΩ + 5.6 MΩ + 0.68 MΩ + 10 MΩ = 17.84 MΩ
 
 ##### 14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
@@ -157,9 +155,7 @@ No presenta problemas.
 ![image](https://user-images.githubusercontent.com/105671763/170888169-e092a589-6649-461e-8579-3894648cebd1.png)
 
 	(a) Se dio un corto.
-	
 	(b) Para localizar un corto, se mide el voltaje a través de cada resistor hasta que se tiene una lectura de 0 V.
-	
 	(c) Se debe calcular el voltaje para cada resistencia y en donde exista un voltaje mayor es donde se encontrará el corto.
 
 #### CAPITULO 6 
@@ -191,13 +187,24 @@ No presenta problemas.
 
 ##### 14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.
 
+	1/RT = 1/1.0 MΩ + 1/2.2 MΩ + 1/5.6 MΩ + 1/12 MΩ + 1/22 MΩ 
+	RT = 0.57 MΩ
+
 ##### 16. Calcule RT en cada uno de los circuitos de la figura 6-70.
 ![image](https://user-images.githubusercontent.com/105671763/170888869-20bf713a-ac62-479c-9fc4-4a191fa737da.png)
+
+	(a) 1/RT = 1/560 Ω + 1/220 Ω     , RT = 157.95 Ω
+	(b) 1/RT = 1/27 kΩ + 1/56 kΩ     , RT = 18.22 kΩ
+	(c) 1/RT = 1/1.5 KΩ + 1/2.2 KΩ   , RT = 0.9 KΩ
 
 ##### 18. Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
 
 ##### 20. Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
 ![image](https://user-images.githubusercontent.com/105671763/170888912-da5878bf-0fdf-4315-b09e-d7ea9f7c83b6.png)
+
+	RT = 1/(1/R1 + 1/R2) 
+	389.2 Ω = 1/(1/680 Ω + 1/R2)   
+	R2 = 910.09 Ω
 
 ##### *SECCIÓN 6–5 	Aplicación de la ley de Ohm*
 
@@ -231,7 +238,11 @@ No presenta problemas.
 
 ##### 38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
 
+	PT = 250 mW + 250 mW + 250 mW + 250 mW + 250 mW = 1250 mW
+
 ##### 40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
+	
 
 ##### 42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kÆ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente: (a) El número de resistores (b) El valor de cada resistor (c) La corriente en cada rama (d) El voltaje aplicado
 
