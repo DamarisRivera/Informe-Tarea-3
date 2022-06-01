@@ -85,8 +85,20 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 ##### *SECCIÓN 5-4 	Aplicación de la Ley de Ohm*
 
 ##### 20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
+<img width="291" alt="image" src="https://user-images.githubusercontent.com/105671763/171510152-6188c474-8d6e-435c-8ffd-939be9b9fa14.png">
+	
+	(a) Se necesita conocer primero la corriente que pasa por el cicuito, I = V/R = 5.5 V/(2.2 kΩ+5.6 kΩ+1.0 kΩ) = 0.625 mA
+		R1: V = I*R = 0.625 mA*2.2 kΩ = 1.38 V
+		R2: V = I*R = 0.625 mA*5.6 kΩ = 3.5 V
+		R3: V = I*R = 0.625 mA*1.0 kΩ = 0.63 V
+	(b) Se necesita conocer primero la corriente que pasa por el cicuito, I = V/R = 16 V/(1.0 MΩ+2.2 MΩ+560 kΩ) = 16 V/(1000 kΩ+2200 kΩ+560 kΩ) = 4.25x10^(-3) mA
+		R1: V = I*R = 4.25x10^(-3) mA*1000 kΩ = 4.25 V
+		R2: V = I*R = 4.25x10^(-3) mA*2200 kΩ = 9.35 V
+		R3: V = I*R = 4.25x10^(-3) mA*560 kΩ = 2.38 V
 
 ##### 22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
+
+	
 
 ##### 24. Determine VR1, R2 y R3 en la figura 5-76.
 ![image](https://user-images.githubusercontent.com/105671763/170886955-bf86e431-a812-404a-be81-57c1ba23bbbc.png)
