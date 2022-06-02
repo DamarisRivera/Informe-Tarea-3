@@ -245,17 +245,27 @@ No presenta problemas.
 
 ##### 4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
 
-	
+	V = I*R 
+	I = V/R 
+	I = 12 V/550 Ω
+	I = 0.022 A
 
 ##### 6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
 ![image](https://user-images.githubusercontent.com/105671763/170888704-972aa0d2-6ede-4f7a-873d-2c7d119b984b.png)
 
+	RT = 1/(1/1.0 kΩ + 1/2.7 KΩ)
+	RT = 0.73 kΩ
+
 ##### 8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
 ![image](https://user-images.githubusercontent.com/105671763/170888704-972aa0d2-6ede-4f7a-873d-2c7d119b984b.png)
+
+	I = V/R = 15 V/1/(1/1.0 KΩ + 1/2.7 KΩ) = 20.56 mA
 
 ##### *SECCIÓN 6–3 	Ley de las corrientes de Kirchhoff*
 
 ##### 10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+	
 
 ##### 12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
 
