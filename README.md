@@ -193,7 +193,13 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 	
 
-##### 50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: (a) I (b)  VT (c) El valor de cada resistor
+##### 50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: 
+
+	(a) I
+	
+	(b)  VT 
+	
+	(c) El valor de cada resistor
 
 	
 
