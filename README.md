@@ -126,15 +126,29 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
 
+	VT = 12 v - 3 v = 9 V
+
 ##### *SECCIÓN 5-6 	Ley del voltaje de Kirchhoff*
 
 ##### 30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
 
+	V = 5.5 V + 8.2 V + 12.3 V = 26 v
+
 ##### 32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
 ![image](https://user-images.githubusercontent.com/105671763/170887196-810e704a-598d-4e20-99a7-c95856d97b13.png)
 
+	Las caídas de voltaje en los dos circuitos son las que tienen un paso de corriente contrario a la mayoría de fuentes.
+	Para medir las caídas de voltaje se debe conectar en paralelo a las resistencias.
+
 ##### 34. Encuentre R1, R2 y R3 en la figura 5-82.
 ![image](https://user-images.githubusercontent.com/105671763/170887222-3d2b6ceb-733b-428d-9d09-fa02aba3ffcf.png)
+
+	1. Calcular el valor de R3.
+		R3 = V/I = 9 V/10 mA = 0.9 kΩ
+	2. Calcular el valor de R2.
+		R2 = P/I^2 = 22 mW/(100 mA)^2 = 2.2X10^(-3) Ω
+	3. Calcular el valor de R1.
+		R1 = V/I = 5.6 V/10 mA = 0.56 kΩ
 
 ##### 36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
 ![image](https://user-images.githubusercontent.com/105671763/170887261-225ab6d7-7946-4c95-92cf-053544dc5252.png)
