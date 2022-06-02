@@ -153,12 +153,24 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 ##### 36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
 ![image](https://user-images.githubusercontent.com/105671763/170887261-225ab6d7-7946-4c95-92cf-053544dc5252.png)
 
+	
+
 ##### *SECCIÓN 5-7 	Divisores de voltaje*
 
 ##### 38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
+<img width="226" alt="image" src="https://user-images.githubusercontent.com/105671763/171549060-262a0afd-ed9f-4158-b305-6231342717b7.png">
+
+	(a) Vx = (Rx/RT)Vs
+	    Vx = (56 Ω/156 Ω)12 V
+	    Vx = 4.31 V
+	(b) Vx = (Rx/RT)Vs
+	    Vx = (5.5 kΩ/6.5 kΩ)8 V
+	    Vx = 6.77 V
 
 ##### 40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
 ![image](https://user-images.githubusercontent.com/105671763/170887373-a535db69-ecdc-44a7-bd9c-efeedfde86b2.png)
+
+	
 
 ##### 42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
 
