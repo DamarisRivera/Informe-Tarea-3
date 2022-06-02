@@ -117,6 +117,11 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 ##### 26. Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
 ![image](https://user-images.githubusercontent.com/105671763/170886991-5f81e5c2-c86b-423b-874a-63400f7e0bf2.png)
 
+	1. Sacar la resistencia equivalente de todo el circuito.
+		Req = 1.0 kΩ + 33 kΩ + 68 kΩ + 27 kΩ + 22 kΩ = 151 kΩ
+	2. Aplicando la Ley de Ohm encontramos la corriente.
+		I = v/R = 9 V/151 kΩ = 0.059 mA
+
 ##### *SECCIÓN 5-5 	Fuentes de voltaje en serie*
 
 ##### 28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
