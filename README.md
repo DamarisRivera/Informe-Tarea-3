@@ -308,9 +308,16 @@ No presenta problemas.
 ##### 22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
 ![image](https://user-images.githubusercontent.com/105671763/170888993-f4e48130-ea7b-4849-b294-8dddba6b45f9.png)
 
-	
+	(a) 1/RT = 1/(33 Ω + 33 Ω + 27 Ω)
+	      RT = 10.24 Ω
+	      I = V/RT = 10 V/10.24 Ω = 0.98 A
+	(b) 1/RT = 1/(1.0 kΩ + 4.7 kΩ + 560 kΩ)
+	      RT = 0.82 kΩ
+	      I = V/RT = 25 V/0.82 kΩ = 30.49 mA
 
 ##### 24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+	
 
 ##### 26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
 ![image](https://user-images.githubusercontent.com/105671763/170889082-9c49d471-e5f8-4ef2-ab9c-5f989b7217d2.png)
