@@ -173,14 +173,25 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 	
 
 ##### 42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
+<img width="172" alt="image" src="https://user-images.githubusercontent.com/105671763/171550773-6b8cfd3b-3bb1-46eb-bed6-bdacb7dd9187.png">
+
+	Vx = (Rx/RT)Vs
+	Vx = (5.6 kΩ/108.6 kΩ)100 V
+	Vx = 5.16 V
 
 ##### 44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V, y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
+
+	
 
 ##### *SECCIÓN 5-8 	Potencia en circuitos en serie*
 
 ##### 46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
 
+	PT = 50 mW + 50 mW + 50 mW + 50 mW + 50 mW = 250 mW
+
 ##### 48. Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
+	
 
 ##### 50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: (a) I (b)  VT (c) El valor de cada resistor
 
