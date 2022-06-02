@@ -334,6 +334,8 @@ No presenta problemas.
 	(a) 1 y 2 (b) 2 y 3 (c) 3 y 4 (d) 1 y 4
 ![image](https://user-images.githubusercontent.com/105671763/170889452-c2035017-ef94-47fd-b80d-30bd0c80e217.png)
 
+	
+
 ## 4. Video
 
 ## 5. Conclusiones
