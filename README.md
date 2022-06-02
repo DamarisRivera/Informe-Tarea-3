@@ -265,10 +265,14 @@ No presenta problemas.
 
 ##### 10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
 
-	
+	500 mA = 50 mA + 150 mA + 25 mA + 100 mA + R5
+	R5 = 500 mA - 325 mA
+	R5 = 175 mA
 
 ##### 12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
 
+	IT = 1.25 A + 0.833(2) A + 10 A = 12.92 A
+	
 ##### *SECCIÓN 6–4 	Resistencia total en paralelo*
 
 ##### 14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.
@@ -285,6 +289,13 @@ No presenta problemas.
 
 ##### 18. Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
 
+	Grupo 1: 1/RT = 1/(470 Ω + 470 Ω + 470 Ω + 470 Ω + 470 Ω)
+		   RT = 94 Ω
+	Grupo 2: 1/RT = 1/(100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω + 100 Ω)
+		   RT = 10 Ω
+	Grupo 3: 1/RT = 1/(100 Ω + 100 Ω)
+		   RT = 50 Ω
+
 ##### 20. Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
 ![image](https://user-images.githubusercontent.com/105671763/170888912-da5878bf-0fdf-4315-b09e-d7ea9f7c83b6.png)
 
@@ -296,6 +307,8 @@ No presenta problemas.
 
 ##### 22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
 ![image](https://user-images.githubusercontent.com/105671763/170888993-f4e48130-ea7b-4849-b294-8dddba6b45f9.png)
+
+	
 
 ##### 24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
 
