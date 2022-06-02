@@ -98,11 +98,22 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ##### 22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
 
-	R1 + R2 + R3 + R4 = Req
-
+	R1 = R2 = R3 = R4 = V/I = 5 V/2.23 mA = 2.24 kΩ para cada resistor.
+	
 ##### 24. Determine VR1, R2 y R3 en la figura 5-76.
 ![image](https://user-images.githubusercontent.com/105671763/170886955-bf86e431-a812-404a-be81-57c1ba23bbbc.png)
 
+	1. Calculamos el valor de R3. 
+		R3 = v/I = 2.21 V/12.3 mA = 0.18 kΩ
+	2. Encontrar el voltaje de R1.
+		V = I*R = (12.3 mA)*(82 Ω) = 1.01 V
+	3. Con los voltajes obtendremos R2.
+		12 V = VR1 + VR2 + VR3
+		12 V = I*R1 + I*R2 + I*R3
+		12 V = I(R1 + R2 + R3)
+		12 V = 12.3 mA(82 Ω + R2 + 0.18 kΩ) = 12.3 mA(0.082 kΩ + R2 + 0.18 kΩ)
+		R2 = 0.714 kΩ
+		
 ##### 26. Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
 ![image](https://user-images.githubusercontent.com/105671763/170886991-5f81e5c2-c86b-423b-874a-63400f7e0bf2.png)
 
