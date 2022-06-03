@@ -341,13 +341,22 @@ No presenta problemas.
 ##### 30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
 ![image](https://user-images.githubusercontent.com/105671763/170889170-b25a2335-1d2d-4321-9131-139d062cea98.png)
 
+	(a) I = 1 mA + 2 mA = 3 mA para RL
+	(b) I = 50 µA - 40 µA = 10 µA para RL
+	(c) I = 1 A - 2.5 A + 2 A = 0.5 A para RL
+
 ##### *SECCIÓN 6–7 	Divisores de corriente*
 
 ##### 32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
 ![image](https://user-images.githubusercontent.com/105671763/170889194-b68e0e84-9f39-413b-9b28-b7d91b7c201f.png)
 
+	En la rama donde esta R1, la corrientes es de 1 A
+	Para la rama donde esta R2, la corriente es de 2 A
+
 ##### 34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
 ![image](https://user-images.githubusercontent.com/105671763/170889212-11ba5aed-26df-4a2c-ab87-99e2a4b103d4.png)
+
+	
 
 ##### 36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω.(b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM = 50 Ω).
 
