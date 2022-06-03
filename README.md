@@ -317,13 +317,24 @@ No presenta problemas.
 
 ##### 24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
 
-	
+	RT = R/n
+	(Req)*(1.11 mA) = 5 V 
+	Req = 5 V/(1.11 mA)
+	Req = 4.51 kΩ para R1, R2, R3, R4 
 
 ##### 26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
 ![image](https://user-images.githubusercontent.com/105671763/170889082-9c49d471-e5f8-4ef2-ab9c-5f989b7217d2.png)
 
+	(a) Rx = RaRt/Ra - Rt
+	    Rx = ()()/(-)
+	(b) 
+
 ##### 28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
 ![image](https://user-images.githubusercontent.com/105671763/170889111-eee8cb7e-3fc3-4d63-96d6-5742f1345946.png)
+
+	1. Resistencia equivalente: RT = 1/(1/1.0 MΩ + 1/820 kΩ + 1/2.2 MΩ) = 1/(1/1.0 MΩ + 1/0.82 MΩ + 1/2.2 MΩ)
+	   RT = 0.37 MΩ
+	2. Corriente total: I = V/R = 24 V/0.37 MΩ = 0.06 mA
 
 ##### *SECCIÓN 6–6 	Fuentes de corriente en paralelo*
 
