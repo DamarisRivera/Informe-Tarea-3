@@ -351,6 +351,12 @@ No presenta problemas.
 
 ##### 36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω.(b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM = 50 Ω).
 
+	(a) 
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/105671763/171770428-aabf3481-fff4-471e-a8d5-e77b6d27a03c.png">
+	
+	(b)
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/105671763/171771607-09a31d18-cc12-4c9a-9564-4977731a7f2f.png">
+	
 ##### *SECCIÓN 6–8 	Potencia en circuitos en paralel*
 
 ##### 38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
