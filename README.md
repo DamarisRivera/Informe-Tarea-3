@@ -394,6 +394,8 @@ No presenta problemas.
 
 ## 4. Video
 
+https://youtu.be/7z2L8ea37FM
+
 ## 5. Conclusiones
 
 - De acuerdo a los ejercicios realizados se puede concluir que se necesita conocer la parte teórica de cada capítulo para poder resolver de manera correcta los problemas.
