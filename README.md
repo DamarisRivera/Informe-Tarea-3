@@ -153,7 +153,10 @@ Aprender sobre los circuitos en serie y paralelo para resolver diversas interrog
 ##### 36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
 ![image](https://user-images.githubusercontent.com/105671763/170887261-225ab6d7-7946-4c95-92cf-053544dc5252.png)
 
-	
+	Posición A: 4.0 V
+	Posición B: 4.5 V
+	Posición C: 5.4 V
+	Posición D: 7.2 V
 
 ##### *SECCIÓN 5-7 	Divisores de voltaje*
 
@@ -170,7 +173,11 @@ Aprender sobre los circuitos en serie y paralelo para resolver diversas interrog
 ##### 40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
 ![image](https://user-images.githubusercontent.com/105671763/170887373-a535db69-ecdc-44a7-bd9c-efeedfde86b2.png)
 
+	Vx = (1000 kΩ/2150 Ω)12 V 
+	Vx = 5.58 V mínimo voltaje
 	
+	Vx = (680 Ω/2150 Ω)12 V
+	Vx = 3.79 V máximo
 
 ##### 42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
 <img width="172" alt="image" src="https://user-images.githubusercontent.com/105671763/171550773-6b8cfd3b-3bb1-46eb-bed6-bdacb7dd9187.png">
@@ -178,10 +185,6 @@ Aprender sobre los circuitos en serie y paralelo para resolver diversas interrog
 	Vx = (Rx/RT)Vs
 	Vx = (5.6 kΩ/108.6 kΩ)100 V
 	Vx = 5.16 V
-
-##### 44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V, y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
-
-	
 
 ##### *SECCIÓN 5-8 	Potencia en circuitos en serie*
 
@@ -191,17 +194,25 @@ Aprender sobre los circuitos en serie y paralelo para resolver diversas interrog
 
 ##### 48. Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
 
-	
+	V = √(P/R) = √(1⁄4 W/ 1.2 kΩ) = 17.32 V
+	V = √(P/R) = √(1⁄4 W/ 2.2 kΩ) = 23.45 V
+	V = √(P/R) = √(1⁄4 W/ 3.9 kΩ) = 31.22 V
+	V = √(P/R) = √(1⁄4 W/ 5.6 kΩ) = 37.42 V
 
 ##### 50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: 
 
 	(a) I
-	
+	    PT = 1⁄8 W + 1⁄4 W + 1⁄2 W = 7/8 W
+	    I = √(P/R) = √((7/8 W)/(2400 Ω))
+	    I = 7.71x10^(-3) A
 	(b)  VT 
-	
+	    VT = PT/IT
+	    VT = 7/8 W/7.71x10^(-3) A
+	    VT = 113.48 V
 	(c) El valor de cada resistor
-
-	
+	    R1: R = P/I^2 = 1⁄8 W/5.94x10^(-5) = 2104.37 Ω
+	    R2: R = P/I^2 = 1⁄4 W/5.94x10^(-5) = 4208.75 Ω
+	    R3: R = P/I^2 = 1⁄2 W/5.94x10^(-5) = 8417.50 Ω
 
 ##### *SECCIÓN 5-9 	Mediciones de voltaje*
 
@@ -325,9 +336,16 @@ No presenta problemas.
 ##### 26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
 ![image](https://user-images.githubusercontent.com/105671763/170889082-9c49d471-e5f8-4ef2-ab9c-5f989b7217d2.png)
 
-	(a) Rx = RaRt/Ra - Rt
-	    Rx = ()()/(-)
-	(b) 
+	(a) Corriente para R2 = 50 mA
+	    R1 = V/I = 10 V/100 mA = 0.1 kΩ
+	    R2 = V/I = 10 V/50 mA = 0.2 kΩ
+	(b) Calcular la corriente de R2
+	    I = V/R = 100 V/680 Ω = 0.15 A
+	    Calcular la corriente que pasa por R3
+	    I = V/R = 100 V/1.0 kΩ = 0.1 A
+	    I = 0.15 A + 0.1 A = 0.25 A
+	    0.25 A - 0.5 A = 0.25 A, corriente en I1
+	    R1 = V/I = 100 v/0.25 A = 400 Ω
 
 ##### 28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
 ![image](https://user-images.githubusercontent.com/105671763/170889111-eee8cb7e-3fc3-4d63-96d6-5742f1345946.png)
@@ -356,17 +374,23 @@ No presenta problemas.
 ##### 34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
 ![image](https://user-images.githubusercontent.com/105671763/170889212-11ba5aed-26df-4a2c-ab87-99e2a4b103d4.png)
 
-	
+	Req1 = 1/(1/3R + 1/4R) = 12 R^2/7R = 12R/7
+	Req2 = 1/(1/2R + 7/12R) = 12R/13
+	Req3 = 1/(1/R + 13/12R) = 12R/25
+	La corriente que pasa por Req3 es de 10 mA
 
 ##### 36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω.(b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM = 50 Ω).
 
 	(a) 
 <img width="299" alt="image" src="https://user-images.githubusercontent.com/105671763/171770428-aabf3481-fff4-471e-a8d5-e77b6d27a03c.png">
-	
-	(b)
+	VM = IMxRM = (1 mA)(50 Ω) = 50 mV
+	RSH1 = VM/ISH = 50 mV/8 mA = 6.25 Ω
+	(b) 
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/105671763/171771607-09a31d18-cc12-4c9a-9564-4977731a7f2f.png">
+	VM = IMxRM = (0.1 mA)(50 Ω) = 5 mV
+	RSH2 = VM/ISH = 5 mV/9.9 mA = 0.505 Ω
 	
-##### *SECCIÓN 6–8 	Potencia en circuitos en paralel*
+##### *SECCIÓN 6–8 	Potencia en circuitos en paralelo*
 
 ##### 38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
 
@@ -374,16 +398,36 @@ No presenta problemas.
 
 ##### 40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 
-	
+	PT = 75 W + 75 W + 75 W + 75 W + 75 W + 75 W = 450 W
+	PT = V*I 
+	I = PT/V = 450 W/110 V = 4.09 A
 
-##### 42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kÆ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente: (a) El número de resistores (b) El valor de cada resistor (c) La corriente en cada rama (d) El voltaje aplicado
+##### 42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente: 
+	
+	(a) El número de resistores 
+	     5 resistores
+	     PT = I^2*RT 
+	     PT = 50 mA*1.0 kΩ
+	     PT = 2.5 W
+	(b) El valor de cada resistor 
+	     R = PT/I^2
+	     R = 2.5 w/50 mA
+	     R = 0.05 kΩ
+	(c) La corriente en cada rama 
+	    I = P*R
+	    I = 2.5*1.0
+	    I = 2.5 
+	(d) El voltaje aplicado
+	    V = I*R
+	    V = 50 mA*1.0 kΩ
+	    V = 50 V
 
 ##### *SECCIÓN 6–10 	Localización de fallas*
 
 ##### 44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 ![image](https://user-images.githubusercontent.com/105671763/170889393-d2205cf3-2fa2-4d8d-a968-ed6eb598e73b.png)
 
-	
+	La resistencia de R1
 
 ##### 46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
 ![image](https://user-images.githubusercontent.com/105671763/170889408-027381bc-cadf-40bf-906a-71cddc942a46.png)
@@ -393,7 +437,14 @@ No presenta problemas.
 ##### 48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4: 
 ![image](https://user-images.githubusercontent.com/105671763/170889452-c2035017-ef94-47fd-b80d-30bd0c80e217.png)
 
-	
+	(a) 1 y 2 
+	    No tiene conexión
+	(b) 2 y 3 
+	    Las resistencias que forman parte de las puntas son: R5, R6, R7, R8, R9, R10
+	(c) 3 y 4 
+	    No tiene conexión
+	(d) 1 y 4
+	    R2
 
 ## 4. Video
 
