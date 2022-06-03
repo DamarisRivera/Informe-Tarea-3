@@ -10,7 +10,7 @@
   
 ### 1.1 Objetivo General
         
-Aprender sobre las bases fundamentales que dan pie a la planteación de problemas sobre circuitos eléctricos, mediante la resolución de ejercicios planteados dentro de cada capítulo.
+Aprender sobre los circuitos en serie y paralelo para resolver diversas interrogantes de circuitos mediante la explicación de conceptos y la resolución de ejercicios.
 	
 ### 1.2 Objetivos Específicos
         
