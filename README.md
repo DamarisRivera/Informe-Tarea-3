@@ -383,20 +383,17 @@ No presenta problemas.
 ##### 44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 ![image](https://user-images.githubusercontent.com/105671763/170889393-d2205cf3-2fa2-4d8d-a968-ed6eb598e73b.png)
 
+	
+
 ##### 46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
 ![image](https://user-images.githubusercontent.com/105671763/170889408-027381bc-cadf-40bf-906a-71cddc942a46.png)
+
+	El voltaje disminuyo.
 
 ##### 48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4: 
 ![image](https://user-images.githubusercontent.com/105671763/170889452-c2035017-ef94-47fd-b80d-30bd0c80e217.png)
 
-	(a) 1 y 2 
-	    No tiene conexión
-	(b) 2 y 3 
-	    Las resistencias que forman parte de las puntas es, R5, R6, R7, R8, R9, R10
-	(c) 3 y 4 
-	    No tiene conexión
-	(d) 1 y 4
-	    R2
+	
 
 ## 4. Video
 
